@@ -1,0 +1,27 @@
+# Site settings
+title: Wildlife Advocates of Jeffco
+header-img: img/bears11.jpg
+email: wildlife.advocates.of.jeffco@gmail.com
+copyright_name: WildlifeAdvocatesOfJeffco
+#description: "Golden based bear IT group"
+#baseurl: "/bearsite2"
+#url: "https://bear-it-group.github.io"
+baseurl: ""
+url: ""
+twitter_username: WildlifeJeffco
+#github_username:  bear-it-group
+facebook_username:  WildlifeAdvocatesOfJeffco
+email_username:  wildlife.advocates.of.jeffco@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
