@@ -6,8 +6,8 @@ copyright_name: WildlifeAdvocatesOfJeffco
 #description: "Golden based bear IT group"
 #baseurl: "/bearsite2"
 #url: "https://bear-it-group.github.io"
-baseurl: ""
-url: ""
+baseurl: "/"
+url: "https://wildlifeadvocatesofjeffco.github.io"
 twitter_username: WildlifeJeffco
 #github_username:  bear-it-group
 facebook_username:  WildlifeAdvocatesOfJeffco
